@@ -8,8 +8,12 @@
 (인공지능응용 연구실 학부연구생)
 - 2024.12.30 국립부경대학교 / 정보융합대학 융합캡스톤디자인 경진대회 **대상**
 - 2024.11.27 국립부경대학교 / 컴퓨터공학부 캡스톤경진대회 **금상**
+- 2024.10.29 ~ 2024.10.31 The 23rd International Conference on Cyberworlds **국제 학회 참여 및 논문 발표** 
+[![Link 1](https://img.shields.io/badge/🔗%20Link-lightgray?style=flat)](https://icms.pknu.ac.kr/ai/5932?action=view&no=9959841)
+
 - 2024.10 과학기술정보통신부 / K-HACKATHON **장려상**
 - 2024.07 대한 임베디드 공학회 / ICT 대학생 논문경진대회 **우수상**
+- 2024.06 ~ 현재 구글 학생 개발 커뮤니티 **GDSC PKNU 시니어 멤버 및 백엔드 멘토 활동** [![Link 1](https://img.shields.io/badge/🔗%20Link%201-lightgray?style=flat)](https://gdsckorea.notion.site/9911cda2999141c68afd48011be24328) [![Link 2](https://img.shields.io/badge/🔗%20Link%202-lightgray?style=flat)](https://meteor-blackberry-9c1.notion.site/GDSC-dc6a53d610ec4a14b273f85063c7d937?pvs=74)
 - 2023.11.09 국립부경대학교 / 프로그래밍 경진대회 **장려상**
 - 2023.08 ~ 2023.09 **일본 Yamanashi 대학 인공지능 A3I Short Program** 수료
 - 2023.07 ~ 2024.06 구글 학생 개발 커뮤니티 **GDSC PKNU 리드 활동**
